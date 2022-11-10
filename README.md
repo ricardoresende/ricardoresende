@@ -6,6 +6,6 @@ IT Manager at Commodity Supplies AG and College Teacher at USCS - Municipal Univ
 
 Developer by heart.
 
-Passionate about software development and education. More than 20 years of software development and 7 years of teaching young developers.
+Passionate about software development and education. More than 20 years of software development and 8 years of teaching young developers.
 
 _“First, solve the problem. Then, write the code.”_ – __John Johnson__
